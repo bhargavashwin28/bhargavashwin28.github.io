@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1012</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <h1>CS-1 Journal J1012: Alternative Base Addition</h1>
+    <p>Name: Bhargav Ashwin</p>
+    <p>Date: 11-Sep-2022</p>
+
+    <p>I received assistance from: N/A</p>
+    <p>I assisted: N/A</p>
+
+    <h2>Section 1</h2>
+    <h3>1.1: Describe the general process for executing addition, regardless of base.</h3>
+    <p>TO begin with, you add the numbers starting with the ones and if the number is above the base term, you carry it over to the higher value.</p>
+
+    <h2>Section 2</h2>
+    <h3>2.1: What special factors need to be considered when executing addition with octal numbers?</h3>
+    <p>When adding with larger octal numbers, any number 8 or above must be carried over to next term, which differs from the decimal system where any number 10 or above is carried. </p>
+
+    <h2>Section 3</h2>
+    <h3>3.1: What special factors need to be considered when executing addition with hexadecimal numbers?</h3>
+    <p>When adding with hexadecimal numbers, the numbers 10, 11, 12, 13, 14, and 15 are respectively A, B, C, D, E, and F. In addition to that, if the number is above 16 when adding, it must be carried over to the next value.
+
+      <h2>Section 4</h2>
+      <h3>4.1: What special factors need to be considered when executing addition with binary numbers?</h3>
+      <p>When adding binary numbers, if there are 2 ones being added, then it gets carried over to the next line and a 0 is added to the sum, and if there is just 1 one, it just adds down. If there are two ones, and a carried over 1, there is a one put down in the sum, and a one carried over.
+      
+    
+    <h2>What did I learn? What is the "big idea"?</h2>
+    <p>I learned that there are different bases that allow to me to add numbers, and the ways of adding them benefitted my mathematical thinkings skills.</p>
+
+    <h2>What challenges did I encounter?</h2>
+    <p>I encountered challlenges when adding hexadecimal because it felt extremely awkward not carrying over double digit numbers.</p>
+
+    <h2>How could this experience be improved?</h2>
+    <p>This experience could be improved by making the merlin mission less tedious as I had to spend a lot of time on each problem and that caused a lot of stress.</p>
+
+    <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+    <p>I now realize that because I understand how to analyze and add different bases, when the time comes to use the code to create websites, this will be one less concept I have to worry about learning.</p>
+
+  </body>
+  </html>
